@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="operando1">Operand 1</string>
+    <string name="operando2">Operand 2</string>
+    <string name="soma">Sum</string>
+    <string name="subtracao">Subtract</string>
+    <string name="multiplicacao">Multiply</string>
+    <string name="divisao">Division</string>
+    <string name="calcular">Calculate</string>
+    <string name="falha_conversao">Conversion failed</string>
+    <string name="dividir_zero">Impossible division by 0</string>
+    <string name="resultado_final">The result is %1$.2f</string>
+    <string name="impossivel_calcular">Impossible to calculate</string>
+    <string name="seleciona_operacao">Select one operation</string>
+</resources>
